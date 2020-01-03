@@ -1,0 +1,3 @@
+Item	Amount
+Pending Maintenance 	4832
+Regulator(2) & Switch(1)	325
