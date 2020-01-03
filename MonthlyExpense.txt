@@ -1,3 +1,5 @@
 Item	Amount
 Pending Maintenance 	4832
 Regulator(2) & Switch(1)	325
+EB Phase Carieer Change	200
+Dasmesh Water Meter	1750
