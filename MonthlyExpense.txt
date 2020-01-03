@@ -10,3 +10,8 @@ Installation(Water Meter)	150
 
 
 Total	7257
+
+
+Month Rent(Dec)	12500
+	
+Final( Rent - Total)	5243
